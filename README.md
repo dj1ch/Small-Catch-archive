@@ -1,3 +1,6 @@
+# Note: Archived Project
+All of this is just our progress. The project probably won't even work. 
+
 # Small Catch
 A project for users of the raspberry pi pico w to have a small hacking pet.
 
